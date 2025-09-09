@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class DungeonSolverApplication {
-
+    //
     public static void main(String[] args) {
         SpringApplication.run(DungeonSolverApplication.class, args);
     }
